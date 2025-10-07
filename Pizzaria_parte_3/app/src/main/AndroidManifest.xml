@@ -12,13 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pizzaria">
         <activity
-            android:name=".IngredientesActivity"
+            android:name=".pastas.PastasActivity"
+            android:exported="false"
+            android:label="@string/title_activity_pastas"
+            android:theme="@style/Theme.Pizzaria.NoActionBar" />
+        <activity
+            android:name=".pastas.IngredientesActivity"
             android:exported="false" />
         <activity
-            android:name=".PizzasActivity"
+            android:name=".pastas.PizzasActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".pastas.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -7,6 +7,6 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:numColumns="auto_fit"
-    tools:context="pm.pizzaria.PizzasActivity">
+    tools:context="pm.pizzaria.pastas.PizzasActivity">
 
 </GridView>

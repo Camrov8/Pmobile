@@ -1,4 +1,4 @@
-package pm.pizzaria
+package pm.pizzaria.pastas
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import pm.pizzaria.R
 import pm.pizzaria.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -34,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         startActivity(Intent(this, PizzasActivity::class.java))
     }
     fun verPastas(view: View) {
-
+        startActivity(Intent(this, PastasActivity::class.java))
     }
     fun verSobremesas(view: View) {
 

@@ -1,8 +1,9 @@
-package pm.pizzaria
+package pm.pizzaria.pastas
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import pm.pizzaria.R
 import pm.pizzaria.adapter.ImageAdapter
 import pm.pizzaria.databinding.ActivityPizzasBinding
 

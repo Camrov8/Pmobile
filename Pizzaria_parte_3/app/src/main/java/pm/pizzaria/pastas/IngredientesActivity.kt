@@ -1,4 +1,4 @@
-package pm.pizzaria
+package pm.pizzaria.pastas
 
 import android.os.Bundle
 import android.widget.ArrayAdapter
@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.AppCompatCheckedTextView
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import pm.pizzaria.R
 import pm.pizzaria.databinding.ActivityIngredientesBinding
 
 class IngredientesActivity : AppCompatActivity() {
