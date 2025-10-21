@@ -36,4 +36,11 @@
             android:text="ir" />
     </LinearLayout>
 
+    <WebView
+        android:id="@+id/browser"
+        android:layout_width="409dp"
+        android:layout_height="665dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="65dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
