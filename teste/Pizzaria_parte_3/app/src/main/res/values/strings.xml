@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Pizzaria</string>
+    <string-array name="ingredientes">
+        <item>Ananás</item>
+        <item>Atum</item>
+        <item>Azeitonas Pretas</item>
+        <item>Bacon</item>
+        <item>Banana</item>
+        <item>Batata dipper</item>
+        <item>Camarão</item>
+        <item>Carne</item>
+        <item>Cebola</item>
+        <item>Cereja</item>
+        <item>Chouriço</item>
+        <item>Cogumelos</item>
+        <item>Espinafres</item>
+        <item>Extra Queijo</item>
+        <item>Fiambre</item>
+        <item>Frango marinado</item>
+        <item>Milho</item>
+        <item>Nachos</item>
+        <item>Ovo Estrelado</item>
+        <item>Ovo Mexido</item>
+        <item>Pepperoni</item>
+        <item>Pimento Verde</item>
+        <item>Queijo Cabra</item>
+        <item>Queijo Gratinado</item>
+        <item>Queijo Provolone</item>
+        <item>Queijo Suíço Curado</item>
+        <item>Salsicha Cocktail</item>
+        <item>Tomate Cherry</item>
+        <item>Topping Barbecue</item>
+        <item>Topping Bechamel</item>
+        <item>Topping Carbonara</item>
+        <item>Topping Kebab</item>
+        <item>Topping Manga Caril</item>
+        <item>Topping Tomate e Oregãos</item>
+    </string-array>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="title_activity_pastas">Pastas</string>
+    <string name="tab_text_1">bolonhesa</string>
+    <string name="tab_text_2">lasanha</string>
+    <string name="tab_text_3">ravioli</string>
+    <string name="tab_text_4">canelonis</string>
+</resources>
