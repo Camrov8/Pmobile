@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-mergeDebugResources-48:\\layout\\activity_ingredientes.xml",
+        "source": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-main-51:\\layout\\activity_ingredientes.xml"
+    },
+    {
+        "merged": "pm.pizzaria.app-mergeDebugResources-48:/layout/activity_pastas.xml",
+        "source": "pm.pizzaria.app-main-51:/layout/activity_pastas.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-mergeDebugResources-48:\\layout\\activity_pastas.xml",
+        "source": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-main-51:\\layout\\activity_pastas.xml"
+    },
+    {
+        "merged": "pm.pizzaria.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "pm.pizzaria.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "pm.pizzaria.app-mergeDebugResources-48:/layout/fragment_pastas.xml",
+        "source": "pm.pizzaria.app-main-51:/layout/fragment_pastas.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "pm.pizzaria.app-mergeDebugResources-48:/layout/activity_pizzas.xml",
+        "source": "pm.pizzaria.app-main-51:/layout/activity_pizzas.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-mergeDebugResources-48:\\layout\\fragment_pastas.xml",
+        "source": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-main-51:\\layout\\fragment_pastas.xml"
+    },
+    {
+        "merged": "pm.pizzaria.app-mergeDebugResources-48:/layout/activity_ingredientes.xml",
+        "source": "pm.pizzaria.app-main-51:/layout/activity_ingredientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-mergeDebugResources-48:\\layout\\activity_pizzas.xml",
+        "source": "C:\\Users\\bruno.bastos\\.gradle\\daemon\\8.13\\pm.pizzaria.app-main-51:\\layout\\activity_pizzas.xml"
+    }
+]
